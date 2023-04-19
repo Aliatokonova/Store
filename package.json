@@ -1,0 +1,14 @@
+{
+  "name": "store",
+  "version": "1.0.0",
+  "description": "first-project-on-js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aliya Tokonova",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
